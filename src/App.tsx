@@ -136,7 +136,8 @@ function App() {
                     and performance on the player's end. Outside of a handful
                     of outliers, the vast majority of players fall in the same
                     range of goal contributions as the rest.
-                    Many players paid significantly less actually outperform those with superstar salaries.
+                    Many players paid significantly less actually
+                    outperform those with superstar salaries.
                 </Typography>
             </Grid>
             <Grid item xs={6}>
